@@ -18,13 +18,15 @@ public class Main {
         }
         // TODO: Calculate the average score
         double sum = 0;
-/*
+
         for (int x=0; x<=2; x++)
         {
             sum += grades[x];
         }
-*/
-       sum = (grades[0] + grades[1] + grades[2]);
+
+       // sum = (grades[0] + grades[1] + grades[2]);
+
+        // edit done by elinmedina
         double avgScore = sum/(grades.length);
         System.out.println("Sum: " + sum);
         System.out.println("Average Score: " + avgScore);
