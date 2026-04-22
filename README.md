@@ -15,3 +15,5 @@ Reviewed by elinmedina on Github.
 
 Collaboration Acknowledgent:
 elinmedina on Github
+
+Had to delete and remake entire github reposity, pain and suffering 
